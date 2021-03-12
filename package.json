@@ -1,0 +1,23 @@
+{
+  "name": "ks1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXM26/ks1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LXM26/ks1/issues"
+  },
+  "homepage": "https://github.com/LXM26/ks1#readme",
+  "dependencies": {
+    "webpack": "^5.25.0"
+  }
+}
